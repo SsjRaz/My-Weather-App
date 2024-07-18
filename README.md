@@ -10,3 +10,9 @@ The Weather App is a sleek, user-friendly web application designed to provide re
 ## Technologies Used
 * Frontend: HTML, CSS, JavaScript
 * API: OpenWeatherMap API
+
+## How to Use
+Currently, the app does not have a public domain. If you would like to test it, you can get a free API key from [OpenWeatherMap](https://openweathermap.org/api). Once you have your API key, follow these steps:
+1. Open the `scripts.js` file.
+2. Find the placeholder `"API_KEY_HOLDER"`.
+3. Replace `"API_KEY_HOLDER"` with your actual API key.
