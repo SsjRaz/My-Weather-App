@@ -5,7 +5,7 @@ The Weather App is a sleek, user-friendly web application designed to provide re
 
 ## Features
 * Current Weather: Displays temperature, weather conditions, humidity, and wind speed.
-* 12-Hour Forecast: Provides an hourly forecast with time, temperature, and weather icons.
+* 24-Hour Forecast: Provides an hourly forecast with time, temperature, and weather icons.
 * City Search with Autocomplete: Users can search for cities with real-time suggestions.
 ## Technologies Used
 * Frontend: HTML, CSS, JavaScript
